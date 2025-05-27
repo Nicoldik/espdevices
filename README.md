@@ -36,7 +36,7 @@ GAME:
 flappy bird?
 Snake?
 a project at the initial stage
-расспиновка:
+pins for esp32:
 modules	Pins ESP32
 button 1 (up)	GPIO 12
 button 2 (ОК)	GPIO 13
