@@ -9,8 +9,8 @@ WIFI Scanner
 BLE:
 BLE Scanner
 GAME: 
-flappy bird?
-Snake?
+Snake
+Ping pong
 проект на начальном этапе
 расспиновка:
 модуль	Пин ESP32
@@ -33,8 +33,8 @@ WIFI Scanner
 BLE:
 BLE Scanner
 GAME: 
-flappy bird?
-Snake?
+Snake
+Ping pong
 a project at the initial stage
 pins for esp32:
 modules	Pins ESP32
